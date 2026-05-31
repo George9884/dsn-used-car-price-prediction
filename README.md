@@ -19,9 +19,9 @@ The goal of this project is to predict the prices of used cars based on various 
 3. Feature encoding
 4. Model training using XGBoost
 5. Model evaluation
-6. Kaggle submission generation
+6. Kaggle hackathon submission 
 
 ## Achievement
 - Completed DSN 2026 Free AI Classes project
-- Ranked 7th in the DSN machine learning hackathon
+- Ranked 10th in the DSN machine learning hackathon
 - Top 50 participant recognized by DSN
