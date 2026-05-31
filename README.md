@@ -23,5 +23,5 @@ The goal of this project is to predict the prices of used cars based on various 
 
 ## Achievement
 - Completed DSN 2026 Free AI Classes project
-- Ranked 10th in the DSN machine learning hackathon
+- Ranked 9th in the DSN machine learning hackathon
 - Top 50 participant recognized by DSN
