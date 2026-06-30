@@ -22,6 +22,6 @@ The goal of this project is to predict the prices of used cars based on various 
 6. Kaggle hackathon submission 
 
 ## Achievement
-- Completed DSN 2026 Free AI Classes project
+- Completed Data Science Nigeria 2026 Free AI Classes project
 - Ranked 9th in the DSN machine learning hackathon
 - Top 50 participant recognized by DSN
